@@ -2,7 +2,6 @@
 
 Simple Python project that demonstrates how to use the spaCy library with the spaCy-TextBlob extension to analyze the sentiment of text. The script also includes a FastAPI application that exposes endpoints for testing purposes.
 
-
 ## Usage
 ### Prerequisites
 Before running the script, make sure you have installed all necessary libraries. 
@@ -12,7 +11,7 @@ You can install them using pip:
 pip install -r requirements.txt
 ```
 ### Local deployment
-To start the server clone the repository, move to the project directory and use a following command:
+To start the server clone the repository, move to the project directory and to the app folder and use a following command:
 ```
 uvicorn main:app --reload
 ```
