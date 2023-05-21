@@ -38,3 +38,5 @@ To test the /sentiment endpoint, send a POST request to http://localhost:8000/se
 }
 ```
 API endpoints documentation will be available at http://localhost:8000/docs.
+
+You can also check deployed app at https://zaawansowane-programowanie-pro.herokuapp.com/
